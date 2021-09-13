@@ -1,0 +1,20 @@
+.article {
+    width: 23%;
+    /* margin: 1vh 0.5vw; */
+}
+.articleWide {
+    width: 48%;
+    /* margin: 1vh 0.5vw; */
+}
+img {
+    width: 100%;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+p:last-of-type {
+    color: #848484;
+    margin-bottom: 3vh;
+}

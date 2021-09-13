@@ -1,0 +1,21 @@
+.header {
+    /* padding: 0 3vw; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    color: #323a45;
+}
+.headerLogo {
+    font-weight: 600;
+}
+.headerNavigation {
+    list-style: none;
+    display: flex;
+}
+.headerNavigation li {
+    margin-left: 2vw;
+}
+.headerNavigationDivider {
+    color: #848484;
+}

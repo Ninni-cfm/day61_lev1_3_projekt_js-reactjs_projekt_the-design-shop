@@ -1,0 +1,13 @@
+Footer {
+    display: grid;
+    grid-template-columns: 2fr repeat(3, 1fr);
+}
+
+Footer > article > h3 {
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+Footer > article > p {
+    color: #848484;
+}
